@@ -1,0 +1,15 @@
+{
+  "name": "js-unit-testing-lambda",
+  "version": "0.1.0",
+  "description": "AWS Lambda function **can** - and **should** - be unit tested locally.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run test -- --coverage --watch",
+    "test": "jest ./lambda"
+  },
+  "author": "Joshua T Kalis <kalisjoshua@gmail.com> (http://kalisjoshua.me)",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^22.1.4"
+  }
+}
