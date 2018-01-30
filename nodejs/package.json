@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run test -- --coverage --watch",
-    "test": "jest ./lambda"
+    "test": "jest"
   },
   "author": "Joshua T Kalis <kalisjoshua@gmail.com> (http://kalisjoshua.me)",
   "license": "MIT",
