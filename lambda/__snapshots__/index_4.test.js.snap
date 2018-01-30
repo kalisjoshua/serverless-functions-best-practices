@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Lambda handler function should write to DynamoDB 1`] = `
+Object {
+  "id": "unique-identifier-quicken loans",
+  "name": "Quicken Loans",
+}
+`;
