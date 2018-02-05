@@ -1,0 +1,7 @@
+C:\Dev\serverless-functions-best-practices\DotNetServerless\DotNetServerless.Tests\bin\Debug\netcoreapp2.0\DotNetServerless.Tests.deps.json
+C:\Dev\serverless-functions-best-practices\DotNetServerless\DotNetServerless.Tests\bin\Debug\netcoreapp2.0\DotNetServerless.Tests.runtimeconfig.json
+C:\Dev\serverless-functions-best-practices\DotNetServerless\DotNetServerless.Tests\bin\Debug\netcoreapp2.0\DotNetServerless.Tests.runtimeconfig.dev.json
+C:\Dev\serverless-functions-best-practices\DotNetServerless\DotNetServerless.Tests\bin\Debug\netcoreapp2.0\DotNetServerless.Tests.dll
+C:\Dev\serverless-functions-best-practices\DotNetServerless\DotNetServerless.Tests\obj\Debug\netcoreapp2.0\DotNetServerless.Tests.csproj.CoreCompileInputs.cache
+C:\Dev\serverless-functions-best-practices\DotNetServerless\DotNetServerless.Tests\obj\Debug\netcoreapp2.0\DotNetServerless.Tests.AssemblyInfoInputs.cache
+C:\Dev\serverless-functions-best-practices\DotNetServerless\DotNetServerless.Tests\obj\Debug\netcoreapp2.0\DotNetServerless.Tests.AssemblyInfo.cs

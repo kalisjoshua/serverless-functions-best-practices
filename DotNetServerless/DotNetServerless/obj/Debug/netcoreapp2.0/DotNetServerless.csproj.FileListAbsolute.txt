@@ -1,0 +1,11 @@
+C:\Dev\serverless-functions-best-practices\DotNetServerless\DotNetServerless\bin\Debug\netcoreapp2.0\DotNetServerless.deps.json
+C:\Dev\serverless-functions-best-practices\DotNetServerless\DotNetServerless\bin\Debug\netcoreapp2.0\DotNetServerless.runtimeconfig.json
+C:\Dev\serverless-functions-best-practices\DotNetServerless\DotNetServerless\bin\Debug\netcoreapp2.0\DotNetServerless.runtimeconfig.dev.json
+C:\Dev\serverless-functions-best-practices\DotNetServerless\DotNetServerless\bin\Debug\netcoreapp2.0\DotNetServerless.dll
+C:\Dev\serverless-functions-best-practices\DotNetServerless\DotNetServerless\bin\Debug\netcoreapp2.0\DotNetServerless.pdb
+C:\Dev\serverless-functions-best-practices\DotNetServerless\DotNetServerless\obj\Debug\netcoreapp2.0\DotNetServerless.csprojResolveAssemblyReference.cache
+C:\Dev\serverless-functions-best-practices\DotNetServerless\DotNetServerless\obj\Debug\netcoreapp2.0\DotNetServerless.csproj.CoreCompileInputs.cache
+C:\Dev\serverless-functions-best-practices\DotNetServerless\DotNetServerless\obj\Debug\netcoreapp2.0\DotNetServerless.AssemblyInfoInputs.cache
+C:\Dev\serverless-functions-best-practices\DotNetServerless\DotNetServerless\obj\Debug\netcoreapp2.0\DotNetServerless.AssemblyInfo.cs
+C:\Dev\serverless-functions-best-practices\DotNetServerless\DotNetServerless\obj\Debug\netcoreapp2.0\DotNetServerless.dll
+C:\Dev\serverless-functions-best-practices\DotNetServerless\DotNetServerless\obj\Debug\netcoreapp2.0\DotNetServerless.pdb
