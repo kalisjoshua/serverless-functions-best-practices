@@ -1,4 +1,4 @@
-  const {handler} = require("./index_2")
+const {handler} = require("./index_2")
 
 describe("Lambda handler function", function () {
 
