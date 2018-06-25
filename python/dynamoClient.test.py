@@ -1,5 +1,6 @@
 import unittest
 import boto3
+import inspect
 from dynamoClient import Factory
 from moto import mock_dynamodb2, mock_dynamodb2_deprecated
 
@@ -35,7 +36,7 @@ class DynamoDBTestSuite(unittest.TestCase):
         self.__class__.setupdone = True
 
     def test_Should_Be_a_Class(self):
-        self.assertEqual(type(Factory), Factory.__class__, 'Should Be a Class')
+        self.assertTrue(inspect.isclass(Factory),'Should Be a Class')
 
     def test_Should_Return_an_Object(self):
         instance = Factory(self.TableName, self.Region)

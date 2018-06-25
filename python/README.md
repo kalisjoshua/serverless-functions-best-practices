@@ -8,7 +8,7 @@ These tests require boto3 and moto - mocking library for boto3.
 
 # Running Unit Tests
 
-
+		$ python dynamoClient.test.py
 
 # Disclaimer
 
